@@ -2,9 +2,11 @@
 
 > **An immersive AI-powered language tutor that helps you learn by conversing with native speakers in authentic regional dialects.**
 
-Built for the **Google Cloud + ElevenLabs Hackathon** 🏆
+Built for the **AI Partner Catalyst: Accelerate Innovation** 🏆
 
-![Language Mirror Demo](./demo.gif)
+<img width="1919" height="926" alt="image" src="https://github.com/user-attachments/assets/82a579b8-64c0-4be2-9fdc-ba45db710a07" />
+<img width="1913" height="917" alt="image" src="https://github.com/user-attachments/assets/c31e66fc-12ec-4c05-8227-93afcc8cfb88" />
+
 
 ---
 
